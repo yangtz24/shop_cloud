@@ -1,4 +1,11 @@
-/.idea/
-/HELP.md
-/.mvn/
-/shop_cloud.iml
+# Maven #
+target/
+
+# IDEA #
+.idea/
+*.iml
+
+# Eclipse #
+.settings/
+.classpath
+.project
