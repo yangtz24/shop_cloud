@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+/shop_common/.mvn/
+/.mvn/
+/shop_common/.mvn/
